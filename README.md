@@ -1,6 +1,6 @@
 # GramPar: Grammar-based Differential Testing of Network Protocol Parsers
 Artifact for the paper "GramPar: Grammar-based Differential Testing of Network Protocol Parsers" 
-submitted to the 47th IEEE Symposium on Security and Privacy (S&P 2026).
+submitted to the The 2026 IEEE/ACM Automated Software Engineering (ASE) Conference.
 
 
 ## Installation
@@ -11,7 +11,7 @@ submitted to the 47th IEEE Symposium on Security and Privacy (S&P 2026).
 ### Instructions
 1. Clone the repository recursively and cd into it
    ```bash
-   git clone --recursive https://github.com/spencerwuwu/GramPar
+   git clone --recursive <clone-url>
    cd GramPar
    ```
 2. Set your UID and GID in `testbeds/smtp-grampar/.env` (obtained from running `id` in your terminal)
